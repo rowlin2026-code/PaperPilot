@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+.env
+.env.*
+outputs/*.md
+samples/my_paper.txt

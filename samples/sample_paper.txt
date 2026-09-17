@@ -1,0 +1,5 @@
+We investigate whether retrieval practice helps first-year graduate students learn scientific terminology.
+In a pilot study, 24 students were randomly assigned to retrieval practice or rereading for one week.
+The retrieval practice group scored 78% on a terminology test, compared with 65% in the rereading group.
+These results suggest that retrieval practice may improve short-term terminology recall.
+The small sample and short follow-up limit generalization; long-term retention was not measured.
